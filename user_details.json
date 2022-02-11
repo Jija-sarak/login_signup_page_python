@@ -1,0 +1,18 @@
+{
+    "jijasarak": {
+        "username": "jijasarak",
+        "password": "sarak123",
+        "firstname": "jija",
+        "lastname": "sarak",
+        "gender": "female",
+        "Date-of-birth": "23-04-1999"
+    },
+    "shwetayadav": {
+        "username": "shwetayadav",
+        "password": "123shweta",
+        "firstname": "shweta",
+        "lastname": "yadav",
+        "gender": "female",
+        "Date-of-birth": "06-07-2002"
+    }
+}
